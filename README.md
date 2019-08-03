@@ -1,2 +1,2 @@
 # TemperatureForecast
-A Simple High and Low temperature prediction model using linear regression.
+A Simple high and low temperature prediction model using linear regression.
